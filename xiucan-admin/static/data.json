@@ -1,0 +1,1931 @@
+{
+    "hotel": {
+        "id": 1276,
+        "name": "微软测试店",
+        "address": "",
+        "tel": "123456",
+        "token": "t1276",
+        "paymode": 1,
+        "layout": 0,
+        "erptag": "ricard",
+        "printPassThrough": 0,
+        "chopstick": {
+            "status": 2,
+            "id": 198530,
+            "name": "湿巾筷子",
+            "price": 0.01
+        }
+    },
+    "payconfig": [
+        {
+            "paytype": "wechatpay",
+            "partner": "wxpay_xc",
+            "channel": "wx_pub",
+            "appid": "wxe5b1bb8f2ae60d6c"
+        },
+        {
+            "paytype": "alipay",
+            "partner": "wxpay_xc",
+            "channel": "ali_wap",
+            "appid": "2016090501851527"
+        },
+        {
+            "paytype": "membercard",
+            "partner": "wxpay_xc",
+            "channel": "membercard_Coolian"
+        }
+    ],
+    "tableInfo": [
+        {
+            "id": 15949,
+            "code": "01",
+            "name": "01",
+            "status": 0
+        },
+        {
+            "id": 16038,
+            "code": "02",
+            "name": "02",
+            "status": 0
+        }
+    ],
+    "checkTaste": [],
+    "userDish": [
+        {
+            "id": "-1",
+            "name": "推荐菜品",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205145,
+                    "code": "",
+                    "price": 38,
+                    "unit": "例",
+                    "name": "孜然羊肉（A0）",
+                    "englishname": "Grilled Lamb with Cumin Rub ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/8/b/5/thumb_59c9d7f9e87a9.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "memo": [
+                        {
+                            "name": [
+                                "多放葱"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少醋"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "多放辣"
+                            ]
+                        }
+                    ],
+                    "memorequired": 0,
+                    "stock": 1
+                },
+                {
+                    "id": 205146,
+                    "code": "",
+                    "price": 48,
+                    "unit": "份",
+                    "name": "洋柿子酸汤鱼（b1）",
+                    "englishname": " Boiled Fish in Sour Soup with Tomato ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/c/4/c/2/thumb_59c9d81516128.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "memo": [
+                        {
+                            "name": [
+                                "免葱"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少油少盐",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": [
+                                "不放辣"
+                            ]
+                        }
+                    ],
+                    "memorequired": 1,
+                    "stock": 1
+                }
+            ]
+        },
+        {
+            "id": 10651,
+            "name": "今日推荐",
+            "englishname": "Recommended today",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205271,
+                    "code": "",
+                    "price": 5,
+                    "unit": "份",
+                    "name": "红烧鱼",
+                    "englishname": "",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/f/c/9/thumb_59e7184ca699f.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": [
+                        {
+                            "name": [
+                                "免葱"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少醋"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "免辣"
+                            ]
+                        }
+                    ],
+                    "memorequired": 0
+                },
+                {
+                    "id": 205488,
+                    "code": "",
+                    "price": 0.01,
+                    "unit": "份",
+                    "name": "锅包肉",
+                    "englishname": "",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/3/f/2/thumb_59c9d93d7ed61.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10649,
+            "name": "招牌菜",
+            "englishname": "Signature Dishes",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205145,
+                    "code": "",
+                    "price": 38,
+                    "unit": "例",
+                    "name": "孜然羊肉（A0）",
+                    "englishname": "Grilled Lamb with Cumin Rub ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/8/b/5/thumb_59c9d7f9e87a9.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": [
+                        {
+                            "name": [
+                                "多放葱"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少醋"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "多放辣"
+                            ]
+                        }
+                    ],
+                    "memorequired": 0
+                },
+                {
+                    "id": 205146,
+                    "code": "",
+                    "price": 48,
+                    "unit": "份",
+                    "name": "洋柿子酸汤鱼（b1）",
+                    "englishname": " Boiled Fish in Sour Soup with Tomato ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/c/4/c/2/thumb_59c9d81516128.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": [
+                        {
+                            "name": [
+                                "免葱"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少油少盐",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": [
+                                "不放辣"
+                            ]
+                        }
+                    ],
+                    "memorequired": 1
+                },
+                {
+                    "id": 205147,
+                    "code": "",
+                    "price": 48,
+                    "unit": "例",
+                    "name": "香辣虾（2必须备注）",
+                    "englishname": "Stir-fried Shrimps in Hot and Spicy Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/c/9/8/4/thumb_59c9d853766bf.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": [
+                        {
+                            "name": [
+                                "多放葱"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少醋"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "不放辣"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少油少盐"
+                            ]
+                        }
+                    ],
+                    "memorequired": 2
+                },
+                {
+                    "id": 205148,
+                    "code": "",
+                    "price": 48,
+                    "unit": "例",
+                    "name": "芳香排骨（3双拼）",
+                    "englishname": "Stir-fried Pork Rib",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/b/a/e/thumb_59c9d82e5dac6.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": [
+                        {
+                            "name": [
+                                "免葱姜蒜"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "不放醋",
+                                ""
+                            ]
+                        },
+                        {
+                            "name": [
+                                "不放辣"
+                            ]
+                        }
+                    ],
+                    "memorequired": 3
+                }
+            ]
+        },
+        {
+            "id": 10648,
+            "name": "厨师主荐",
+            "englishname": "Chef&apos;s Recommendation",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205123,
+                    "code": "",
+                    "price": 32,
+                    "unit": "份",
+                    "name": "左宗棠鸡",
+                    "englishname": "Suateed Chicken with Dry Chili",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/3/f/a/e/thumb_59c9db3f08189.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205124,
+                    "code": "",
+                    "price": 28,
+                    "unit": "例",
+                    "name": "盐煎肉",
+                    "englishname": "Fried Pork Slices with Garlic Bolt Spicy Sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/8/9/6/thumb_59c9dbedae36a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205125,
+                    "code": "",
+                    "price": 45,
+                    "unit": "位",
+                    "name": "石湾脆肚",
+                    "englishname": "Fried Pork Stomach with Dry Chili  ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/0/d/6/thumb_59c9dc086fb9f.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205126,
+                    "code": "",
+                    "price": 48,
+                    "unit": "例",
+                    "name": "沙茶金针肥牛",
+                    "englishname": "Sliced Beef with Mushroom served in Satay Sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/7/f/c/thumb_59c9dbcbf0cd4.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205127,
+                    "code": "",
+                    "price": 48,
+                    "unit": "例",
+                    "name": "阔尔达克",
+                    "englishname": "Stewed Lamb Chops with potatoes and Carrots",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/0/0/f/thumb_59c9dc4d7b0af.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205128,
+                    "code": "",
+                    "price": 46,
+                    "unit": "位",
+                    "name": "开胃金针肥羊",
+                    "englishname": "Sliced Mutton with Mushrooms",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/0/3/3/6/thumb_59c9db84019e8.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205129,
+                    "code": "",
+                    "price": 36,
+                    "unit": "份",
+                    "name": "椒盐鱼柳",
+                    "englishname": "Roasted Fish Fillet with Spiced Salt ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/6/6/4/e/thumb_59c9dbaf8eeb7.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205130,
+                    "code": "",
+                    "price": 48,
+                    "unit": "位",
+                    "name": "酱大骨",
+                    "englishname": "Braised Pig Femur Bones and Ribs in Brown Sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/0/7/e/thumb_59c9dc2c44c9b.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205131,
+                    "code": "",
+                    "price": 24,
+                    "unit": "份",
+                    "name": "干炸小黄鱼",
+                    "englishname": "Dry-fired Small croker ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/2/6/5/thumb_59c9db605d175.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205132,
+                    "code": "",
+                    "price": 38,
+                    "unit": "例",
+                    "name": "大盘鸡",
+                    "englishname": "Fried Chicken with Green Pepper and Onion ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/c/8/8/thumb_59c9db24b6086.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10647,
+            "name": "精炒家常菜",
+            "englishname": "Home-style Dishes",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205090,
+                    "code": "",
+                    "price": 38,
+                    "unit": "份",
+                    "name": "竹笋烧肉",
+                    "englishname": "Braised Pork with Bamboo Shoots in Hot",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/0/c/6/1/thumb_59c9df20eb8c8.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205091,
+                    "code": "",
+                    "price": 25,
+                    "unit": "例",
+                    "name": "重庆辣子鸡",
+                    "englishname": "Deep Fried Chicken with Dry Chili",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/a/4/a/7/thumb_59c9e0209062c.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205092,
+                    "code": "",
+                    "price": 20,
+                    "unit": "例",
+                    "name": "鱼香肉丝",
+                    "englishname": "Sauteed shredded pork with Garlic Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/2/d/8/5/thumb_59c9e0da0696d.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205093,
+                    "code": "",
+                    "price": 28,
+                    "unit": "份",
+                    "name": "鱼香日本豆腐",
+                    "englishname": "Braised Japanese Bean Curd in Soy Sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/3/b/9/6/thumb_59c9e0bf7674c.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205094,
+                    "code": "",
+                    "price": 38,
+                    "unit": "份",
+                    "name": "小炒猪脸",
+                    "englishname": "Sauteed pig Snout with Color pepper",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/c/8/4/6/thumb_59c9ddf6c168a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205095,
+                    "code": "",
+                    "price": 30,
+                    "unit": "例",
+                    "name": "土匪猪肝",
+                    "englishname": "Sauteed Spicy Liver",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/1/4/4/e/thumb_59c9dd8506850.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205096,
+                    "code": "",
+                    "price": 30,
+                    "unit": "例",
+                    "name": "土豆炖牛肉",
+                    "englishname": "Braised Beef Wok with potato ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/1/a/b/thumb_59c9dda3d1996.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205097,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "松仁玉米",
+                    "englishname": "Sauteed Sweet Corn with Pine Nuts",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/b/c/9/thumb_59c9de988c1f5.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205098,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "宫保鸡丁",
+                    "englishname": "Kung Pao Chicken",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/6/b/4/5/thumb_59c9ddd8f182a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205099,
+                    "code": "",
+                    "price": 22,
+                    "unit": "例",
+                    "name": "水煮牛肉",
+                    "englishname": "Sliced Beef in Chili Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/8/3/5/thumb_59c9deb6b82de.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205100,
+                    "code": "",
+                    "price": 22,
+                    "unit": "份",
+                    "name": "水煮猪肉",
+                    "englishname": "Sliced Pork in Chili Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/d/2/7/8/thumb_59f867f77b06a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205101,
+                    "code": "",
+                    "price": 18,
+                    "unit": "份",
+                    "name": "肉末烧茄子",
+                    "englishname": "Braised Eggplant with Minced Pork ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/c/e/4/thumb_59c9df4ab356a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205102,
+                    "code": "",
+                    "price": 22,
+                    "unit": "份",
+                    "name": "清爽腰果鸡丁",
+                    "englishname": "Stir-fried Chicken with Cashew Nuts",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/6/c/2/b/thumb_59c9ded06d232.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205103,
+                    "code": "",
+                    "price": 22,
+                    "unit": "份",
+                    "name": "青笋炒木耳",
+                    "englishname": "Stir-fried Lettuce with Fungus",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/1/9/6/4/thumb_59c9e0a0ee3e6.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205104,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "青椒肉丝",
+                    "englishname": "Sauteed Shredded Pork with Green pepper ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/d/b/e/3/thumb_59c9e057e2e00.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205105,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "农家小炒肉",
+                    "englishname": "Stir-fried Pork with Chili",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/a/3/2/d/thumb_59c9dd37e80a9.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205106,
+                    "code": "",
+                    "price": 14,
+                    "unit": "份",
+                    "name": "麻婆豆腐",
+                    "englishname": "Sauteed Tofu in Hot and Spicy Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/8/9/5/f/thumb_59c9e0f8925c2.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205107,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "京式木须肉",
+                    "englishname": "Sauteed Shredded pork with Fungus and Egg",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/d/e/e/thumb_59c9dcf70d484.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205108,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "京酱肉丝",
+                    "englishname": "Sauteed Shredded pork with Soy Sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/a/8/5/d/thumb_59c9dd1523311.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205109,
+                    "code": "",
+                    "price": 42,
+                    "unit": "份",
+                    "name": "火爆腰花",
+                    "englishname": "Sauteed Pig&apos;s Kidney",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/6/3/d/thumb_59c9dee8f0ccf.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205110,
+                    "code": "",
+                    "price": 30,
+                    "unit": "例",
+                    "name": "回锅豆腐",
+                    "englishname": "Sauteed Sliced Tofu with Pepper and Chili",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/d/a/a/thumb_59c9dd6a960d5.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205111,
+                    "code": "",
+                    "price": 38,
+                    "unit": "例",
+                    "name": "黑椒牛柳",
+                    "englishname": "Sauteed Beef Filet with Black Pepper",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/a/e/5/0/thumb_59c9e113a1c2a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205112,
+                    "code": "",
+                    "price": 26,
+                    "unit": "例",
+                    "name": "干锅有机菜花",
+                    "englishname": "Cauliflower Wok with Red Chili",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/d/5/f/f/thumb_59c9de67b7dc4.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205113,
+                    "code": "",
+                    "price": 30,
+                    "unit": "例",
+                    "name": "锅仔番茄牛腩",
+                    "englishname": "Beef Brisket Wok with tomato",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/5/1/7/thumb_59c9e03e29c1b.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205114,
+                    "code": "",
+                    "price": 22,
+                    "unit": "例",
+                    "name": "干锅土豆片",
+                    "englishname": " Pototo chips Wok with Red Chili ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/0/0/6/9/thumb_59c9de4c72e6a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205115,
+                    "code": "",
+                    "price": 30,
+                    "unit": "例",
+                    "name": "干锅千叶豆腐",
+                    "englishname": "Slices Tofu Wok with Red Chili ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/0/3/3/9/thumb_59c9de3292627.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205116,
+                    "code": "",
+                    "price": 18,
+                    "unit": "例",
+                    "name": "干煸四季豆",
+                    "englishname": " Fried  String Bean ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/c/4/5/c/thumb_59c9de153eaed.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205117,
+                    "code": "",
+                    "price": 15,
+                    "unit": "例",
+                    "name": "番茄鸡蛋",
+                    "englishname": "Fried Egg with Tomato",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/9/b/b/thumb_59c9df06566dd.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205118,
+                    "code": "",
+                    "price": 14,
+                    "unit": "例",
+                    "name": "剁椒鸡蛋",
+                    "englishname": " Scrambled Egg with Red Chili ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/4/0/2/thumb_59c9dd52bd877.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205119,
+                    "code": "",
+                    "price": 22,
+                    "unit": "例",
+                    "name": "豆角烧茄子",
+                    "englishname": "Sauteed Green beans with Eggplant",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/7/4/6/thumb_59c9dfed4bc77.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205120,
+                    "code": "",
+                    "price": 28,
+                    "unit": "例",
+                    "name": "豆花鸡片",
+                    "englishname": "Sliced Chicken with Tofu pudding in Chili Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/f/d/8/thumb_59c9dfa065495.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205121,
+                    "code": "",
+                    "price": 38,
+                    "unit": "例",
+                    "name": "葱爆羊肉",
+                    "englishname": "Sauteed Sliced Lamb with  Scallion",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/c/7/0/7/thumb_59c9df73ef3f5.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205122,
+                    "code": "",
+                    "price": 28,
+                    "unit": "份",
+                    "name": "成都冒菜",
+                    "englishname": "Mixed vegetable Boiled  in Spicy Sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/1/d/9/d/thumb_59c9de801ab19.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10639,
+            "name": "中式头盘（凉菜）",
+            "englishname": "Chinese Cold Appetizers",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205045,
+                    "code": "",
+                    "price": 18,
+                    "unit": "份",
+                    "name": "水晶皮冻",
+                    "englishname": "Braised Pigskin Freeze",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/1/5/4/6/thumb_59e5c05f4ab4e.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": [
+                        {
+                            "name": [
+                                ""
+                            ]
+                        }
+                    ],
+                    "memorequired": 0
+                },
+                {
+                    "id": 205133,
+                    "code": "",
+                    "price": 12,
+                    "unit": "例",
+                    "name": "炸灌肠",
+                    "englishname": "Fried Starch Sausage ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/9/e/9/thumb_59c9d9b841c16.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205134,
+                    "code": "",
+                    "price": 16,
+                    "unit": "份",
+                    "name": "香辣肝丝娃娃菜",
+                    "englishname": "Spicy Pork Liver Wire with Baby Cabbage ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/2/6/d/d/thumb_59c9daad3e412.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205135,
+                    "code": "",
+                    "price": 18,
+                    "unit": "例",
+                    "name": "香椿苗豆腐丝",
+                    "englishname": "Chinese Toon with Shredded Tofu",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/c/2/9/thumb_59c9da859ecea.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205136,
+                    "code": "",
+                    "price": 12,
+                    "unit": "份",
+                    "name": "爽口西芹",
+                    "englishname": "Crispy Celery",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/0/3/1/thumb_59c9d9d4899e7.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205137,
+                    "code": "",
+                    "price": 28,
+                    "unit": "位",
+                    "name": "千层耳",
+                    "englishname": " Sliced Pig Ears in Chili sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/4/d/a/thumb_59c9d924b4f8e.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205138,
+                    "code": "",
+                    "price": 16,
+                    "unit": "份",
+                    "name": "雷椒茄子",
+                    "englishname": "Mashed Garilc Eggplant with Green Pepper",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/0/6/8/thumb_59c9da64d3984.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205139,
+                    "code": "",
+                    "price": 22,
+                    "unit": "份",
+                    "name": "口水鸡",
+                    "englishname": " Steamed Chicken with Chili Sauce",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/3/f/2/thumb_59c9d93d7ed61.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205140,
+                    "code": "",
+                    "price": 22,
+                    "unit": "位",
+                    "name": "酱牛肉",
+                    "englishname": "Braised Beef with Soy Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/9/6/9/thumb_59c9da42e3afe.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205141,
+                    "code": "",
+                    "price": 12,
+                    "unit": "例",
+                    "name": "姜汁皮蛋",
+                    "englishname": "Preserved Egg with Ginger Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/3/d/b/thumb_59c9d989137d5.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205142,
+                    "code": "",
+                    "price": 22,
+                    "unit": "例",
+                    "name": "红油肘花",
+                    "englishname": "Sliced Pig Knuckle in Chili Oil",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/e/d/4/thumb_59c9d9fb80a05.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205143,
+                    "code": "",
+                    "price": 28,
+                    "unit": "份",
+                    "name": "夫妻肺片",
+                    "englishname": "Sliced Beef and Beef Offal with Chili Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/0/8/5/c/thumb_59c9d956d74ac.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205144,
+                    "code": "",
+                    "price": 18,
+                    "unit": "例",
+                    "name": "豉汁杭椒",
+                    "englishname": "Green Pepper in Chili Sauce  ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/c/c/c/thumb_59c9da1f1f870.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10640,
+            "name": "土锅滋味",
+            "englishname": "Casserole Taste",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205046,
+                    "code": "",
+                    "price": 48,
+                    "unit": "份",
+                    "name": "土锅焖鱼",
+                    "englishname": "Braised Fish ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/f/c/9/thumb_59e7184ca699f.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205053,
+                    "code": "",
+                    "price": 38,
+                    "unit": "份",
+                    "name": "土锅鸡",
+                    "englishname": "Braised Chicken ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/1/7/4/thumb_59f6f979ba6c0.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205054,
+                    "code": "",
+                    "price": 52,
+                    "unit": "份",
+                    "name": "土锅羊蝎子",
+                    "englishname": "Braised Lamb Spine",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/3/d/e/thumb_59f6f94796258.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205055,
+                    "code": "",
+                    "price": 58,
+                    "unit": "份",
+                    "name": "土锅劲头巴脑",
+                    "englishname": "Braised Beef Tendon",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/9/e/7/thumb_59f6f907966eb.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10641,
+            "name": "汤类",
+            "englishname": "Soup",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205047,
+                    "code": "",
+                    "price": 10,
+                    "unit": "份",
+                    "name": "四川酸辣汤（小）",
+                    "englishname": "Hot and Sour Soup ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/9/9/6/thumb_59e5ebe7a497c.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205048,
+                    "code": "",
+                    "price": 8,
+                    "unit": "份",
+                    "name": "番茄蛋花汤（小）",
+                    "englishname": "Tomato and Egg  Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/8/f/c/thumb_59e5ebc1cd76d.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205049,
+                    "code": "",
+                    "price": 26,
+                    "unit": "份",
+                    "name": "例汤(大)",
+                    "englishname": "Daily Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/1/0/0/thumb_59e5c3bfa96b9.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205050,
+                    "code": "",
+                    "price": 10,
+                    "unit": "份",
+                    "name": "西湖牛肉羹（小）",
+                    "englishname": "Westlake Beef Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/a/5/d/thumb_59e5ec0a5a41a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205052,
+                    "code": "",
+                    "price": 8,
+                    "unit": "份",
+                    "name": "例汤(小)",
+                    "englishname": "Daily Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/2/e/4/thumb_59e5eb9039c6b.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205073,
+                    "code": "",
+                    "price": 15,
+                    "unit": "例",
+                    "name": "西湖牛肉羹（大）",
+                    "englishname": "Westlake Beef Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/7/0/4/thumb_59c9e3953991d.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205074,
+                    "code": "",
+                    "price": 15,
+                    "unit": "例",
+                    "name": "四川酸辣汤(大)",
+                    "englishname": "Hot and Sour Soup ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/b/b/2/0/thumb_59c9e36889b1d.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205075,
+                    "code": "",
+                    "price": 12,
+                    "unit": "例",
+                    "name": "番茄蛋花汤(大)",
+                    "englishname": "Tomato and Egg  Soup",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/8/2/9/3/thumb_59c9e37f4c5fe.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10642,
+            "name": "精美水果盘",
+            "englishname": "Fruit Platter",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205051,
+                    "code": "",
+                    "price": 18,
+                    "unit": "例",
+                    "name": "2人果盘",
+                    "englishname": "Fruit Platter [2pax]",
+                    "pic": "http://www.xiucan.com/pigData/static/image/Yoshinoya/2人果盘/Fruit Platter [2pax].png",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205067,
+                    "code": "",
+                    "price": 58,
+                    "unit": "例",
+                    "name": "6--8人份果",
+                    "englishname": "Fruit Platter",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/2/8/8/f/thumb_59c9e508aafed.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205068,
+                    "code": "",
+                    "price": 38,
+                    "unit": "例",
+                    "name": "4--6人份果盘",
+                    "englishname": "Fruit Platter",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/5/7/8/6/thumb_59c9e4f0d63fc.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205069,
+                    "code": "",
+                    "price": 18,
+                    "unit": "例",
+                    "name": "2人份果盘",
+                    "englishname": "Fruit Platter",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/f/5/b/thumb_59c9e4d808dcd.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10643,
+            "name": "软饮",
+            "englishname": "Drinks",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205056,
+                    "code": "",
+                    "price": 4,
+                    "unit": "例",
+                    "name": "雪碧（330ml）",
+                    "englishname": "Sprite",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/b/8/5/a/thumb_59c9e6c570b18.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205057,
+                    "code": "",
+                    "price": 6,
+                    "unit": "例",
+                    "name": "王老吉凉茶",
+                    "englishname": "Herbal Tea",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/1/e/3/0/thumb_59c9e5deb2524.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205058,
+                    "code": "",
+                    "price": 12,
+                    "unit": "例",
+                    "name": "雪碧（2L)",
+                    "englishname": "Sprite",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/3/f/e/thumb_59c9e6ad42385.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205059,
+                    "code": "",
+                    "price": 6,
+                    "unit": "例",
+                    "name": "苏打水",
+                    "englishname": "Soda Water",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/6/d/0/9/thumb_59c9e5f7f2459.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205060,
+                    "code": "",
+                    "price": 2,
+                    "unit": "份",
+                    "name": "雀巢优活矿泉水",
+                    "englishname": "Nestle Pure Life water",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/2/0/1/1/thumb_59c9e693c3e5f.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205061,
+                    "code": "",
+                    "price": 4,
+                    "unit": "份",
+                    "name": "可口可乐（330ml)",
+                    "englishname": "Coke",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/2/a/3/thumb_59c9e58c3b32f.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205062,
+                    "code": "",
+                    "price": 12,
+                    "unit": "份",
+                    "name": "可口可乐（2L)",
+                    "englishname": "Coke",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/9/2/c/thumb_59c9e5723f7b6.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205063,
+                    "code": "",
+                    "price": 4,
+                    "unit": "例",
+                    "name": "健怡可乐（330ml)",
+                    "englishname": "Diet Coke",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/a/4/a/9/thumb_59c9e557cd578.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205064,
+                    "code": "",
+                    "price": 20,
+                    "unit": "例",
+                    "name": "汇源桃汁（1L)",
+                    "englishname": "Huiyuan Peach Juice",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/7/3/3/f/thumb_59c9e5a5c64b6.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205065,
+                    "code": "",
+                    "price": 8,
+                    "unit": "例",
+                    "name": "都乐葡萄汁",
+                    "englishname": "Grape Juice",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/8/4/5/d/thumb_59c9e629c7971.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205066,
+                    "code": "",
+                    "price": 8,
+                    "unit": "例",
+                    "name": "都乐橙汁",
+                    "englishname": "Orange Juice ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/1/f/9/thumb_59c9e61080d06.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10644,
+            "name": "主食",
+            "englishname": "Main Course",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205070,
+                    "code": "",
+                    "price": 1,
+                    "unit": "例",
+                    "name": "银丝白饭",
+                    "englishname": "Steamed Rice",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/2/7/4/f/thumb_59c9e4af3486a.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205071,
+                    "code": "",
+                    "price": 15,
+                    "unit": "例",
+                    "name": "扬州炒饭",
+                    "englishname": "Yangzhou Fried Rice",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/1/9/f/6/thumb_59c9e3ce73a65.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205072,
+                    "code": "",
+                    "price": 10,
+                    "unit": "例",
+                    "name": "金银馒头",
+                    "englishname": "Steamed Bun",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/a/f/0/2/thumb_59c9e3eb36912.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10645,
+            "name": "时令蔬菜",
+            "englishname": "Seasonal Vegetable",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205076,
+                    "code": "",
+                    "price": 15,
+                    "unit": "例",
+                    "name": "油麦菜",
+                    "englishname": "Sauteed Indian Lettuce with Garlic without Garlic ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/3/9/8/3/thumb_59c9e2505d537.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205077,
+                    "code": "",
+                    "price": 16,
+                    "unit": "例",
+                    "name": "香菇油菜",
+                    "englishname": "Fried Mushroom and Rape",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/e/8/2/e/thumb_59c9e327a9633.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205078,
+                    "code": "",
+                    "price": 14,
+                    "unit": "例",
+                    "name": "土豆丝",
+                    "englishname": "Sauteed Shredded Potato with Spicy and Sour Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/6/0/c/thumb_59c9e21fbb765.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205079,
+                    "code": "",
+                    "price": 18,
+                    "unit": "例",
+                    "name": "蒜蓉粉丝娃娃菜",
+                    "englishname": "SteamBabby Cabbage with Garlic and Bean Vermicelli ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/6/0/9/2/thumb_59c9e2bb72664.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205080,
+                    "code": "",
+                    "price": 15,
+                    "unit": "位",
+                    "name": "生菜",
+                    "englishname": "Stir-fried Lettuce with Oyster Sauce(garlic)",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/b/d/3/thumb_59c9e286738cc.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": [
+                        {
+                            "name": [
+                                "蚝油",
+                                "蒜蓉"
+                            ]
+                        },
+                        {
+                            "name": [
+                                "少油少盐"
+                            ]
+                        }
+                    ],
+                    "memorequired": 2
+                },
+                {
+                    "id": 205081,
+                    "code": "",
+                    "price": 16,
+                    "unit": "位",
+                    "name": "炝炒手撕包菜",
+                    "englishname": "Fried Shredded Cabbage with Pepper",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/0/b/3/0/thumb_59c9e26b21be5.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205082,
+                    "code": "",
+                    "price": 20,
+                    "unit": "例",
+                    "name": "芥蓝",
+                    "englishname": "Sauteed Chinese Kale with Garlic (without Garlic)",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/a/9/b/1/thumb_59c9e2a276129.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205083,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "荷兰豆",
+                    "englishname": "Sauteed Snow Peas with Garlic ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/4/3/9/1/thumb_59c9e2f4217b5.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205084,
+                    "code": "",
+                    "price": 20,
+                    "unit": "份",
+                    "name": "蒿子杆",
+                    "englishname": "Garland Chrysanthemum with Garlic without Garlic ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/2/7/4/2/thumb_59c9e30ac3753.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205085,
+                    "code": "",
+                    "price": 18,
+                    "unit": "例",
+                    "name": "地三鲜",
+                    "englishname": "Fried Potato with Green Pepper Eggplant in Soy Sauce ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/9/5/d/thumb_59c9e236d4fd6.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        },
+        {
+            "id": 10646,
+            "name": "海鲜类",
+            "englishname": "Seafood",
+            "status": 0,
+            "items": [
+                {
+                    "id": 205086,
+                    "code": "",
+                    "price": 38,
+                    "unit": "例",
+                    "name": "太安鱼",
+                    "englishname": "Stewed Fish with Pickled Radish and Pickled peppers ",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/8/f/c/c/thumb_59c9e173c4600.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205087,
+                    "code": "",
+                    "price": 48,
+                    "unit": "例",
+                    "name": "蒜蓉开边虾",
+                    "englishname": "Steamed Prawn and Vermicelli with Minced Garlic",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/f/4/0/7/thumb_59c9e1cf190c9.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205088,
+                    "code": "",
+                    "price": 48,
+                    "unit": "例",
+                    "name": "清蒸鱼",
+                    "englishname": "Steamed Fish",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/9/1/6/a/thumb_59c9e1b1df541.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 205089,
+                    "code": "",
+                    "price": 48,
+                    "unit": "例",
+                    "name": "沸腾水煮鱼",
+                    "englishname": "Boiled Sliced Fish in Hot Chili Oil",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/d/1/3/8/thumb_59c9e190977bc.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                },
+                {
+                    "id": 198530,
+                    "code": "123",
+                    "price": 0.01,
+                    "unit": "例",
+                    "name": "湿巾筷子",
+                    "englishname": "Boiled Sliced Fish in Hot Chili Oil",
+                    "pic": "http://www.xiucan.com/uploads/y/ygffjt1439369750/d/1/3/8/thumb_59c9e190977bc.jpg",
+                    "step": 1,
+                    "slogan": "",
+                    "activity": [],
+                    "stock": 1,
+                    "memo": null,
+                    "memorequired": 0
+                }
+            ]
+        }
+    ]
+}
