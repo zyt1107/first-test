@@ -1,0 +1,179 @@
+[
+	{
+		"hotel": {
+			"id": 1276,
+			"orderid": "",
+			"name": "吉野家",
+			"src": "",
+			"commentLevel": 1,
+			"avatar": "./avatar.jpg",
+			"username": "匿名用户",
+			"deliverTime": "2018-3-19"	
+		},
+		"comment": {
+			"evaluationGoods": [
+				["干净卫生", "食材新鲜", "分量足", "味道好", "包装精美"],
+				[0, 1, 0, 1, 0]
+			],
+			"evaluationGoodsText": "",
+			"evaluationStore": [
+				["配送快", "准时到达", "送货上门", "餐品保存完整", "主动联系"],
+				[1, 0, 0, 0, 0]
+			],
+			"evaluationStoreText": "这是测试信息"
+		},
+		"order": [
+		{
+			"id": 205145,
+			"code": "",
+			"name": "黑椒鸡排特价套餐",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}, {
+			"id": 205145,
+			"code": "",
+			"name": "蔬菜牛肉",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}
+		]
+	}, {
+		"hotel": {
+			"id": 1276,
+			"orderid": "",
+			"name": "吉野家",
+			"src": "",
+			"commentLevel": 1,
+			"avatar": "./avatar.jpg",
+			"username": "匿名用户",
+			"deliverTime": "2018-3-19"	
+		},
+		"comment": {
+			"evaluationGoods": [
+				["干净卫生", "食材新鲜", "分量足", "味道好", "包装精美"],
+				[0, 1, 0, 1, 0]
+			],
+			"evaluationGoodsText": "",
+			"evaluationStore": [
+				["配送快", "准时到达", "送货上门", "餐品保存完整", "主动联系"],
+				[1, 0, 0, 0, 0]
+			],
+			"evaluationStoreText": "这是测试信息"
+		},
+		"order": [
+		{
+			"id": 205145,
+			"code": "",
+			"name": "黑椒鸡排特价套餐",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}, {
+			"id": 205145,
+			"code": "",
+			"name": "蔬菜牛肉",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}
+		]
+	}, {
+		"hotel": {
+			"id": 1276,
+			"orderid": "",
+			"name": "吉野家",
+			"src": "",
+			"commentLevel": 1,
+			"avatar": "./avatar.jpg",
+			"username": "匿名用户",
+			"deliverTime": "2018-3-19"	
+		},
+		"comment": {
+			"evaluationGoods": [
+				["干净卫生", "食材新鲜", "分量足", "味道好", "包装精美"],
+				[0, 1, 0, 1, 0]
+			],
+			"evaluationGoodsText": "",
+			"evaluationStore": [
+				["配送快", "准时到达", "送货上门", "餐品保存完整", "主动联系"],
+				[1, 0, 0, 0, 0]
+			],
+			"evaluationStoreText": "这是测试信息"
+		},
+		"order": [
+		{
+			"id": 205145,
+			"code": "",
+			"name": "黑椒鸡排特价套餐",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}, {
+			"id": 205145,
+			"code": "",
+			"name": "蔬菜牛肉",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}
+		]
+	}, {
+		"hotel": {
+			"id": 1276,
+			"orderid": "",
+			"name": "吉野家",
+			"src": "",
+			"commentLevel": 4,
+			"avatar": "./avatar.jpg",
+			"username": "匿名用户",
+			"deliverTime": "2018-3-19"	
+		},
+		"comment": {
+			"evaluationGoods": [
+				["干净卫生", "食材新鲜", "分量足", "味道好", "包装精美"],
+				[0, 1, 0, 1, 0]
+			],
+			"evaluationGoodsText": "",
+			"evaluationStore": [
+				["配送快", "准时到达", "送货上门", "餐品保存完整", "主动联系"],
+				[1, 0, 0, 0, 0]
+			],
+			"evaluationStoreText": "这是测试信息"
+		},
+		"order": [
+		{
+			"id": 205145,
+			"code": "",
+			"name": "黑椒鸡排特价套餐",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}, {
+			"id": 205145,
+			"code": "",
+			"name": "蔬菜牛肉",
+			"price": 38,
+			"num": 1,
+			"printid": "",
+			"commentLevel": 2,
+			"status": 0
+		}
+		]
+	}
+]

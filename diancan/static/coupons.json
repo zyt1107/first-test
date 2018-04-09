@@ -1,0 +1,32 @@
+[
+	  {
+           "card_type": "CASH",
+           "cardId": "pREW7s3FFmFUIWamKENgYkmUh8fc",
+           "code": "444455556666",
+           "least_cost": 20,
+           "reduce_cost": 3,
+           "begin_timestamp": "2017.07.01 00:00",
+           "end_timestamp": "2017.08.20 23:59",
+           "description": "全场通用"
+         },
+         {
+           "card_type": "CASH",
+           "cardId": "pREW7s3FFmFUIWamKENgYkmUh8fc",
+           "code": "111122223333",
+           "least_cost": 40,
+           "reduce_cost": 8,
+           "begin_timestamp": "2017.06.29 00:00",
+           "end_timestamp": "2017.08.20 23:59",
+           "description": "全场通用"
+         },
+         {
+           "card_type": "CASH",
+           "cardId": "pREW7s3FFmFUIWamKENgYkmUh8fc",
+           "code": "777788889999",
+           "least_cost": 100,
+           "reduce_cost": 15,
+           "begin_timestamp": "2017.07.01 00:00",
+           "end_timestamp": "2017.08.20 23:59",
+           "description": "全场通用"
+         }
+]
